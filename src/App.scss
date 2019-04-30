@@ -1,0 +1,116 @@
+.App {
+    text-align: center;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+.todo_list {
+    text-align: center;
+    border: 2px solid lightskyblue;
+    height: 700px;
+    width: 500px;
+    display: flex;
+    margin: 30px auto;
+    padding: 10px;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+
+    .todo_header {
+        text-align: center;
+        height: 100px;
+        width: 500px;
+        flex: 1;
+    }
+
+    .todo_content {
+        padding: 10px;
+        height: 550px;
+        width: 480px;
+        overflow: auto;
+        flex: 4;
+        ul {
+            padding : 0px 0px 0px 0px;
+            li {
+                list-style: none;
+                padding: 1rem;
+                display: flex;
+                align-items: center;
+                cursor: pointer;
+                transition: all 0.15s;
+                user-select: none;
+                border-top: 1px solid #f1f3f5;
+                font-size: 1.4em;
+                &:hover {
+                    background: #e3fafc;
+                 }
+            }
+        }
+    }
+}
+
+.todo_input {
+    flex: 1;
+    font-size: 1.7em;
+    margin: 10px;
+    border: 1px solid lightskyblue;
+    outline: none;
+}
+.todo_button {
+    border-radius: 3px;
+    border: 1px solid skyblue;
+    background-color: rgba(0,0,0,0);
+    color: skyblue;
+    outline: none;
+    font-size: 1.7em;
+    cursor: pointer;
+}
+.todo_button:hover{
+    color: white;
+    background-color: skyblue;
+}
+.delCheck {
+    height: 25px;
+    width: 25px;
+}
+
+.fix {
+    display: flex;
+}
+
+.fix span {
+    flex: 1;
+    text-align: left;
+}
+.App-logo {
+    display: block;
+    margin: 10px auto;
+    height: 50px;
+    pointer-events: none;
+}
+
+.App-header {
+    background-color: #282c34;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.App-link {
+    color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+    from {
+        transform: rotate(0deg);
+    }
+    to {
+        transform: rotate(360deg);
+    }
+}

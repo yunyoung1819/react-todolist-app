@@ -4,8 +4,9 @@ Todo-List Application With ReactJs <br/>
 -----------------------
 
 [![made-with-react](https://img.shields.io/github/package-json/dependency-version/zeit/next.js/dev/react/canary.svg)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)(https://opensource.org/licenses/MIT)
-[![Generic badge](https://img.shields.io/badge/No-Update-red.svg)(https://shields.io/)
+[![MIT License](https://img.shields.io/apm/l/vim-mode.svg)(https://opensource.org/licenses/MIT)
+[![Generic badge](https://img.shields.io/eclipse-marketplace/last-update/notepad4e.svg)
+
 
 ## [윤영](https://github.com/yunyoung1819)
 ## [ [Facebook](https://www.facebook.com/yoon.young.585) ] [ [Github](https://github.com/yunyoung1819) ] [ [LinkedIn] ] [ [Blog](https://yunyoung1819.tistory.com) ] <br/>

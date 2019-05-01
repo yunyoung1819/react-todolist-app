@@ -2,16 +2,16 @@ Toy Project
 =======================
 Todo-List Application With ReactJs <br/>
 -----------------------
-[![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+
+
+[![made-with-python](https://img.shields.io/github/package-json/dependency-version/zeit/next.js/dev/react/canary.svg)](https://reactjs.org/)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Generic badge](https://img.shields.io/badge/No-Update-red.svg)](https://shields.io/)
-[![made-with-react](https://img.shields.io/github/package-json/dependency-version/zeit/next.js/dev/react/canary.svg)]
-[![MIT License](https://img.shields.io/apm/l/vim-mode.svg)]
-[![Generic badge](https://img.shields.io/eclipse-marketplace/last-update/notepad4e.svg)]
+
 
 
 ## [윤영](https://github.com/yunyoung1819)
-## [ [Facebook](https://www.facebook.com/yoon.young.585) ] [ [Github](https://github.com/yunyoung1819) ] [ [LinkedIn] ] [ [Blog](https://yunyoung1819.tistory.com) ] <br/>
+## [ [Facebook](https://www.facebook.com/yoon.young.585) ] [ [Github](https://github.com/yunyoung1819) ] [ LinkedIn ] [ [Blog](https://yunyoung1819.tistory.com) ] <br/>
 
 
 ## 개요
@@ -34,7 +34,7 @@ React를 사용하여 제작한 간단한 Todo-List Application 입니다. <br/>
 
 
 ### 기능 
-- 할 일 목록을 추가 
+- `할 일 목록`을 추가 
 - 완료된 할 일 목록 삭제
 - 완료된 목록 개수 카운트 
 

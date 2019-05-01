@@ -21,7 +21,7 @@ class TodoHeader extends Component {
                     value={todoText}
                     onChange={onTodoChange}
                 />
-                <button className="todo_button" onClick={onTodoAdd}> </button>
+                <button className="todo_button" onClick={onTodoAdd}> save </button>
             </div>
         );
     }

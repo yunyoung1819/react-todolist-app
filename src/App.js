@@ -1,9 +1,9 @@
 import React, { Component } from 'react';
 import nkia from './nkia.png';
+import todologo from './todo2.png'
 import './App.scss';
 import TodoHeader from "./TodoHeader";
 import TodoContents from "./TodoContents";
-import todoService from "./service/todoService"
 
 class App extends Component {
 
@@ -14,21 +14,6 @@ class App extends Component {
       myMessage : '',
       list : [],
       checkNum : 0
-    }
-  }
-
-  componentDidMount() {
-    this.getTodoList()
-  }
-
-  getTodoList = async () => {
-    try {
-      const list = await todoService.getTodoList()
-      this.setState({
-        list
-      })
-    } catch (e) {
-      console.error(e)
     }
   }
 
@@ -53,7 +38,8 @@ class App extends Component {
       }
     });
   }
-  handleTodoComple= (val) => {
+
+  handleTodoComplete = (val) => {
     this.setState((state) => {
       return {
         list : state.list.filter(todo => todo !== val),
@@ -69,7 +55,7 @@ class App extends Component {
   render() {
     return (
       <div className="todo_list">
-        <TodoHeader logo={nkia} todoText={this.state.myMessage} onTodoChange={this.handleTodoChange} onTodoAdd={this.handleTodoAdd} />
+        <TodoHeader logo={todologo} todoText={this.state.myMessage} onTodoChange={this.handleTodoChange} onTodoAdd={this.handleTodoAdd} />
         <TodoContents todoItems={this.state.list} onTodoComplete={this.handleTodoComplete} onTodoRemove={this.handleTodoRemove} completeCount={this.state.checkNum} />
       </div>
     );

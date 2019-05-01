@@ -4,7 +4,7 @@ Toy Project. Todo-List Application With ReactJs <br/>
 
 [![made-with-react](https://img.shields.io/github/package-json/dependency-version/zeit/next.js/dev/react/canary.svg)](https://reactjs.org/)
 [![react-easy-emoji on NPM](https://img.shields.io/npm/v/react-easy-emoji.svg)](https://www.npmjs.com/package/react-easy-emoji)
-[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![react-easy-emoji MIT license on NPM](https://img.shields.io/npm/l/react-easy-emoji.svg?style=flat-square)](https://www.npmjs.com/package/react-easy-emoji)
 [![Generic badge](https://img.shields.io/badge/No-Update-red.svg)](https://shields.io/)
 
 

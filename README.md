@@ -8,8 +8,8 @@ Toy Project. Todo-List Application With ReactJs <br/>
 
 
 
-## [윤영](https://github.com/yunyoung1819)
-## [ [Facebook](https://www.facebook.com/yoon.young.585) ] [ [Github](https://github.com/yunyoung1819) ] [ LinkedIn ] [ [Blog](https://yunyoung1819.tistory.com) ] <br/>
+#### [윤영](https://github.com/yunyoung1819)
+#### [ [Facebook](https://www.facebook.com/yoon.young.585) ] [ [Github](https://github.com/yunyoung1819) ] [ LinkedIn ] [ [Blog](https://yunyoung1819.tistory.com) ] <br/>
 
 
 #### 개요

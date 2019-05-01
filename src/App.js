@@ -1,5 +1,4 @@
 import React, { Component } from 'react';
-import nkia from './nkia.png';
 import todologo from './todo2.png'
 import './App.scss';
 import TodoHeader from "./TodoHeader";

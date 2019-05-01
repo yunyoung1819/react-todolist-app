@@ -3,6 +3,8 @@ Toy Project
 Todo-List Application With ReactJs <br/>
 -----------------------
 [![made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
+[![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Generic badge](https://img.shields.io/badge/No-Update-red.svg)](https://shields.io/)
 [![made-with-react](https://img.shields.io/github/package-json/dependency-version/zeit/next.js/dev/react/canary.svg)]
 [![MIT License](https://img.shields.io/apm/l/vim-mode.svg)]
 [![Generic badge](https://img.shields.io/eclipse-marketplace/last-update/notepad4e.svg)]

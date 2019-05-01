@@ -1,6 +1,4 @@
-Toy Project
-=======================
-Todo-List Application With ReactJs <br/>
+Toy Project. Todo-List Application With ReactJs <br/>
 -----------------------
 
 
@@ -14,18 +12,18 @@ Todo-List Application With ReactJs <br/>
 ## [ [Facebook](https://www.facebook.com/yoon.young.585) ] [ [Github](https://github.com/yunyoung1819) ] [ LinkedIn ] [ [Blog](https://yunyoung1819.tistory.com) ] <br/>
 
 
-### 개요
-**React를 사용하여 제작한 간단한 Todo-List Application 입니다.** <br/>
+#### 개요
+ - React를 사용하여 제작한 간단한 Todo-List Application 입니다. <br/>
 
-### 기술
+#### 기술
 - ReactJS
 - Javascript ES6
 - JSX
 
-### IDE
+#### IDE
 - Webstorm
 
-### Image
+#### Image
 
 <p align="center">
 <img width="340px" height="460px" src="https://github.com/yunyoung1819/react-todolist-app/blob/master/src/readmeImg1.PNG?raw=true"/><br/>
@@ -35,13 +33,13 @@ Todo-List Application With ReactJs <br/>
 </p>
 
 
-### 기능 
+#### 기능 
 - `할 일 목록`을 추가 
 - `완료된 할 일 목록` 삭제
 - `완료된 목록 개수` 카운트 
 
 
-### 버전
+#### 버전
 2019/04/30 <br/>
 - `Version` [(1.0.0)](https://github.com/yunyoung1819/react-todolist-app) Release <br/>
 

@@ -4,7 +4,7 @@ Todo-List Application With ReactJs <br/>
 -----------------------
 
 
-[![made-with-python](https://img.shields.io/github/package-json/dependency-version/zeit/next.js/dev/react/canary.svg)](https://reactjs.org/)
+[![made-with-react](https://img.shields.io/github/package-json/dependency-version/zeit/next.js/dev/react/canary.svg)](https://reactjs.org/)
 [![MIT License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Generic badge](https://img.shields.io/badge/No-Update-red.svg)](https://shields.io/)
 
@@ -19,6 +19,8 @@ React를 사용하여 제작한 간단한 Todo-List Application 입니다. <br/>
 
 ### 기술
 - ReactJS
+- Javascript ES6
+- JSX
 
 ### IDE
 - Webstorm
@@ -35,10 +37,10 @@ React를 사용하여 제작한 간단한 Todo-List Application 입니다. <br/>
 
 ### 기능 
 - `할 일 목록`을 추가 
-- 완료된 할 일 목록 삭제
-- 완료된 목록 개수 카운트 
+- `완료된 할 일 목록` 삭제
+- `완료된 목록 개수` 카운트 
 
 ### 버전
 2019/04/30 <br/>
-- Version [(1.0.0)](https://github.com/yunyoung1819/react-todolist-app) Release <br/>
+- `Version` [(1.0.0)](https://github.com/yunyoung1819/react-todolist-app) Release <br/>
 
